@@ -1,0 +1,12 @@
+127.0.0.1 - - [13/Feb/2024:15:10:11 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:15:10:11 +0530] "GET /HotelRecummendationSystemServlet/ HTTP/1.1" 200 1659
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:15:10:12 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:15:10:14 +0530] "GET /HotelRecummendationSystemServlet/LoginAdmin.html HTTP/1.1" 200 741
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:15:10:14 +0530] "GET /HotelRecummendationSystemServlet/CSS/adminlogin.css HTTP/1.1" 200 897
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:15:10:26 +0530] "POST /HotelRecummendationSystemServlet/adminlogin HTTP/1.1" 200 745
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:15:10:26 +0530] "GET /HotelRecummendationSystemServlet/CSS/NavBar.css HTTP/1.1" 200 441
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:15:10:33 +0530] "GET /HotelRecummendationSystemServlet/view HTTP/1.1" 200 1423
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:15:10:33 +0530] "GET /HotelRecummendationSystemServlet/CSS/viewhotel.css HTTP/1.1" 200 329
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:15:10:39 +0530] "GET /HotelRecummendationSystemServlet/del?hotelId=4 HTTP/1.1" 200 1276
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:15:14:53 +0530] "GET /HotelRecummendationSystemServlet/hotelinfo HTTP/1.1" 200 1598
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:15:14:53 +0530] "GET /HotelRecummendationSystemServlet/CSS/addhotelinfo.css HTTP/1.1" 200 917
